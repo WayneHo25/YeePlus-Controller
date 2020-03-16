@@ -18,10 +18,10 @@ Has not yet been available on App Store and Google Play
 
 ## Editor and Extensions
 - VS Code
-- Xcode
-- Android Studio
 - Eslint
 - Prettier
 - Babel JavaScript
 - React Native Tools
 - Theme - Oceanic Next
+- Xcode
+- Android Studio
