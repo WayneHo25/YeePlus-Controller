@@ -14,7 +14,7 @@ Has not yet been available on App Store and Google Play
 - Expo
 - JavaScript
 - Material UI
-- Material Kit React Native
+- Material Kit React Native(Free)
 
 ## Editor and Extensions
 - VS Code
